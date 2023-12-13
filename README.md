@@ -2,6 +2,7 @@
 This model is the basis of the PAWRA system, which is able to estimate the possibility of a dog experiencing depression dan anxiety by relying on an analysis of the dog's activity records.
 # Compatible Version
 - Python 3.10
+- TensorFlow 2.14
 - Sastrawi 1.0
 - Numpy 1.23
 - NLTK 3.8
